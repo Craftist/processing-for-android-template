@@ -12,6 +12,7 @@ object App : PApplet() {
 
     override fun setup() {
         background(255)
+
     }
 
     override fun draw() {
